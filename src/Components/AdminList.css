@@ -1,0 +1,21 @@
+.aLinkTabWrapper{
+    width: 25vw;
+    max-width: 25vw;
+    display:flex;
+    height:5vh;
+    max-height:5vh;
+    overflow: hidden;
+
+}
+.aLinkTab{
+    width:12vw;
+    max-width:12vw;
+    margin-right: 1vw;
+    height:5vh;
+    max-height:5vh;
+    overflow: hidden;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+}

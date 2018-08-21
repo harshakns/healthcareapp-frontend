@@ -1,0 +1,36 @@
+.dContainer{
+    height: 90vh;
+    max-height:90vh;
+    width:100vw;
+    max-width:100vw;
+    display:flex;
+    overflow: hidden;
+    padding:2px;
+}
+.dLeft{
+    height:90vh;
+    max-height:90vh;
+    width:25vw;
+    max-width:25vw;
+    overflow:hidden;
+    padding:2px
+}
+.dSearch{
+    height:6vh;
+    width:25vw;
+    max-height:6vh;
+    max-width:6vw;
+}
+.dList{
+    width:40vw;
+    height:86vh;
+    overflow-y:scroll;
+}
+.dChat{
+    height:94vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#8eaee3;
+    width:60vw;
+}

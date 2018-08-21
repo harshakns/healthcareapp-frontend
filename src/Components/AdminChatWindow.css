@@ -1,0 +1,36 @@
+.MultiChatWindowRow1{
+height:5vh;
+max-height:5vh;
+width:75vw;
+max-width:75vw;
+overflow: hidden;
+display:flex;
+flex-direction:row;
+}
+.MultiChatWindowRow1Tab{
+height:5vh;
+max-height:5vh;
+width:25vw;
+max-width:25vw;
+display:flex;
+justify-content: center;
+align-items: center;
+border:1px solid black;
+
+}
+.MultiChatWindowRow2{
+height:5vh;
+max-height:5vh;
+width:75vw;
+max-width:75vw;
+position:relative;
+overflow: hidden;
+}
+.MultiChatWindowRow3{
+height:80vh;
+max-height:80vh;
+width:75vw;
+max-width:75vw;
+position:relative;
+overflow: hidden;
+}

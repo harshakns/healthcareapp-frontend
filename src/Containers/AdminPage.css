@@ -1,0 +1,55 @@
+.aListMenu{
+    width:25vw;
+    height:90vh;
+    max-width:25vw;
+    max-height:90vh;
+
+
+}
+.aList{
+    position:absolute;
+    z-index:0;
+    width:25vw;
+    height:90vh;
+    max-width:25vw;
+    max-height:90vh;
+    overflow-y:scroll;
+
+}
+.uContainer{
+    height: 90vh;
+    max-height:90vh;
+    width:100vw;
+    max-width:100vw;
+    display:flex;
+    overflow: hidden;
+    padding:2px;
+}
+.uLeft{
+    height:90vh;
+    max-height:90vh;
+    width:25vw;
+    max-width:25vw;
+    overflow:hidden;
+    padding:2px
+}
+.uSearch{
+    height:6vh;
+    width:25vw;
+    max-height:6vh;
+    max-width:25vw;
+}
+.uList{
+    width:25vw;
+    height:84vh;
+    max-width:25vw;
+    max-height:84vh;
+    overflow-y:scroll;
+}
+.uChat{
+    height:90vh;
+    max-height:90vh;
+    width:75vw;
+    max-width:75vw;
+    overflow:hidden;
+}

@@ -1,0 +1,47 @@
+.ChatTabButtonWrapper{
+    width:auto;
+    height:5vh;
+    max-width: 200px;
+    max-height:5vh;
+    overflow: hidden;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0px 2px 0px 2px;
+}
+.ChatTabButton{
+    font-size:14px;
+    max-width:160px;
+    height:5vh;
+    max-height:5vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right:10px;
+}
+.ChatTabButtonExit{
+    width: 20px;
+    height:20px;
+    max-height:20px;
+    margin-left: 1px;
+    padding-left:0px;
+    padding-right:0px;
+    border-radius:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    transition:all 300ms;
+    
+}
+.ChatTabButtonExit:hover{
+    background-color:red;
+    font-weight: bolder;
+}
+.ChatTabButtonExit:active{
+    transform:scale(0.9);
+}
+.ChatTabButton:hover{
+    text-decoration: underline;
+}

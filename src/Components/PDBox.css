@@ -1,0 +1,33 @@
+.PDBoxWrapper{
+    width: 23vw;
+    max-width:23vw;
+    height:30px;
+    max-height:30px;
+    margin-bottom:2px;
+    margin-top:2px;
+    display:flex;
+    justify-content: space-between;
+    background-color: #688ece;
+
+
+}
+.PDBoxName{
+    width:auto;
+    max-width:13vw;
+    overflow:hidden;
+    max-height:30px;
+    height:30px;
+    text-align: left;
+    padding:10px;
+}
+.PDBoxStatus{
+    width:10vw;
+    max-width:10vw;
+    height:30px;
+    max-height:30px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 10px;
+    
+}
